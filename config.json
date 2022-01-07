@@ -1,6 +1,6 @@
 {
-  "main": "./contracts/Token.sol",
-  "deploy": "./build/contracts/Token.json",
+  "main": "./contracts/BEP20Token.sol",
+  "deploy": "./build/contracts/BEP20Token.json",
   "framework": "truffle-docker",
   "compilers": {
     "truffle": "v5.4.3",
